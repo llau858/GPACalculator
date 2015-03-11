@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="percentage_array">
+        <item>Grade/Points</item>
+        <item>94–100</item>
+        <item>90–93</item>
+        <item>87–89</item>
+        <item>84–86</item>
+        <item>80–83</item>
+        <item>77–79</item>
+        <item>74–76</item>
+        <item>70–73</item>
+        <item>67–69</item>
+        <item>64–66</item>
+        <item>60–63</item>
+        <item>0–59</item>
+        <item>CR/NCR</item>
+    </string-array>
+
+    <string-array name="weight_array">
+        <item>Weight Scale</item>
+        <item>0.5</item>
+        <item>1.0</item>
+    </string-array>
+
+    <string-array name="gpa_data_array">
+        <item>(94 – 100)  ~  A  =  4.00</item>
+        <item>(90 – 93)  ~  A- =  3.67</item>
+        <item>(87 – 89)  ~  B+ =  3.33</item>
+        <item>(84 – 86)  ~  B  =  3.00</item>
+        <item>(80 – 83)  ~  B- =  2.67</item>
+        <item>(77 – 79)  ~  C+ =  2.33</item>
+        <item>(74 – 76)  ~  C  =  2.00</item>
+        <item>(70 – 73)  ~  C- =  1.67</item>
+        <item>(67 – 69)  ~  D+ =  1.33</item>
+        <item>(64 – 66)  ~  D  =  1.00</item>
+        <item>(60 – 63)  ~  D- =  0.67</item>
+        <item>( 0 - 59)  ~  F  =  0.00</item>
+    </string-array>
+
+
+</resources>
